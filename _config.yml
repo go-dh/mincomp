@@ -1,0 +1,12 @@
+# Site settings
+title: Minimal Computing
+email: brianlee@ku.edu
+description: "Minimal Computing Site - working group of GO::DH"
+baseurl: ""
+url: ""
+twitter_username: blros
+github_username:  blros
+
+# Build settings
+markdown: kramdown
+permalink: pretty
