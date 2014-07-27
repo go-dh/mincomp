@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+The GO::DH Minimal Computing Working Group kickstarted itself into life with a workshop on  July 8 at the [DH2014 conference](http://dh2014.org) in Lausanne, Switzerland. For more information about that workshop, please see the [GO::DH call for presentations](http://www.globaloutlookdh.org/working-groups/minimal-computing/kickstart-workshop/).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+We envision this web space as a place for thought pieces on minimal computing, examples and how-to pieces, listings of events and resources, and as a place to find collaborators. Please watch this space for further developments. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
