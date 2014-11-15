@@ -1,12 +1,28 @@
-# Site settings
-title: Minimal Computing
-email: brianlee@ku.edu
-description: "Minimal Computing - a working group of GO::DH"
-baseurl: "/mincomp"
-url: ""
-twitter_username: blros
-github_username:  blros
-
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+# Dependencies
+markdown:         kramdown
+highlighter:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Minimal Computing"
+tagline:          
+description:      "a working group of GO::DH"
+url: ""              
+baseurl: "/mincomp"
+email:
+
+
+paginate:         5
+layout: blog-post
+
+# Custom vars
+version:          2.0.0
+
+
