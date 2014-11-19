@@ -1,3 +1,4 @@
+#usage: rake post tile='title of post'
 desc 'create a new draft post'
 task :post do
   title = ENV['title']
@@ -15,7 +16,7 @@ task :post do
     layout: post
     title: #{title}
     published: false
-    categories: <choose one: blog thoughts challenge tutorial resource>
+    category: <choose one: blog thoughts challenge tutorial resource>
     ---
 
     EOS
