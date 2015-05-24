@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Articles & Thought Pieces
+title: Thought Pieces
 permalink: /thoughts/
 ---
 
