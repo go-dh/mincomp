@@ -8,7 +8,8 @@ permalink: /resources/
   <ul>
     {% for post in site.posts %}
 	{% if post.category == "resource" %}
-      <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      <li><a href="{{ post.link }}" target="_blank">{{ post.title }}</a> by <span class="italic">{{ post.author }}</span></li> 
+      <p class="blurb">{{ post.blurb }}</p>
 	{% endif %}    
 {% endfor %}
   </ul>
