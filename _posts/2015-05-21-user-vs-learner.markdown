@@ -3,6 +3,7 @@ layout: post
 title:  "The User, the Learner and the Machine"
 date:   2015-05-21 04:00:00
 category: thoughts
+author: Alex Gil
 ---
 
 In general we can say that minimal computing is the application of [minimalist principles to computing](http://en.wikipedia.org/wiki/Minimalism_%28computing%29). In reality, though, minimal computing is in the eye of the beholder. A [Raspberry Pi](https://www.raspberrypi.org/) could be understood as an example of a minimalist piece of hardware because the creators reduced computing components to what they saw as a bare minimum to achieve simple tasks. The learning curve for using one, though, can be threatening to beginners, and therefore requires more than minimum effort. 
