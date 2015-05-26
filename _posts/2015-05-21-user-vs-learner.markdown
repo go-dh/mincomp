@@ -11,3 +11,5 @@ In general we can say that minimal computing is the application of [minimalist p
 On a user interface, on the other hand, eliminating clutter (unnecessary buttons, distracting design, etc) can also be understood to be part of a minimalist approach, making it easier for users to engage. Google's success, for example, may be owed to the reduction of the search function to one box. In order to achieve this feat, though, we estimate that Google uses an enormous amount of code and data in the back end, needing enormous computing power in turn.
 
 I prefer to define minimal computing around the question "What do we need?" If we do so, both the ease of use, the ease of creation, the reduction in computing usage—and by extension—electricity. 
+
+[in progress...]
