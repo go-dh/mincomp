@@ -10,11 +10,24 @@ In general we can say that minimal computing is the application of [minimalist p
 
 On a user interface, on the other hand, eliminating clutter (unnecessary buttons, distracting design, etc) can also be understood to be part of a minimalist approach, making it easier for users to engage. Google's success, for example, may be owed to the reduction of the search function to one box. In order to achieve this feat, though, we estimate that Google uses an enormous amount of code and data in the back end, needing enormous computing power in turn.
 
-We prefer to (not) define minimal computing around the question "What do we need?" If we do so, our orientations vis-a-vis ease of use, ease of creation, increased access and reductions in computing—and by extension, electricity—become clearer. This one of the central questions of the work of Ernesto Oroza's work on what he calls "the architecture of necessity." 
+We prefer to (not) define minimal computing around the question "What do we need?" If we do so, our orientations vis-a-vis ease of use, ease of creation, increased access and reductions in computing—and by extension, electricity—become clearer. In this sense, we aim to understand ways of building what could be referred to as "[architectures of necessity](http://architectureofnecessity.com/)" as Ernesto Oroza would call them.
 
-[Insert references to Oroza's stair story]
+Oroza tells us the story of a man who wanted a little bit more space. Here's his story:
 
-When we ask "what do we need?" we speak to scholars around the world: librarians, professors, students, cultural workers, independent. Needless to say, workers in the humanities have many diverse goals, so we focus here on what we consider the most important shared one: the renewal, dissemination and preservation of the scholarly record.  We take for granted the intersections of our work with the human record writ-large, and the pressing work of scholarly critique of (present) culture, our teaching and the public humanities. 
+>He lived with his mother in a space that was so small that it couldn’t legally be considered a house. He expanded into the hallway, built a kitchen and refurbished the bathroom. He changed the status of the property and acquired a title for it. He got his hands on a permit to build on the roof, as he thought about moving out on his own. In order to do this he had to build an exterior stairway. He set to work on the structure indoors and started the paperwork to divide the property. The appearance of an exterior stairway before the process of dividing the house was finished could be considered a violation, and he could be fined or even lose all property rights to the house he had built.
+>
+>He understood that the description of the house and its parts depends on the cultural understanding that we have of it, that laws depend on this understanding.
+>
+>Then, what is a stairway? How does one describe it? Could he build a structure in front of his doorway that looks nothing like a stairway but serves the same function? Maybe just objects stacked in such a way that one can climb and descend them? Or an object by Ettore Sottsass, a stack that includes all of Feijóo’s books, a Franz West sculpture, anything?
+>
+>He decided on a conceptual shortcut: he built the stairway and waited to be fined. In this way, he gained time. The Law demanded that he cease building the stairway until the paperwork needed to divide the property was finalized.
+>
+>Years went by. He used the unfinished stairway.
+>
+>What’s a finished stairway?
+
+
+When we ask "what do we need?" we ask scholars around the world—librarians, professors, students, cultural workers, independent: What is enough? What's your finished stairway? Needless to say, workers in the humanities have many diverse goals, so we focus here on what we consider the most important shared one: the renewal, dissemination and preservation of the scholarly record.  We take for granted the intersections of our work with the human record writ-large, and the pressing work of scholarly critique of (present) culture, our teaching and the public humanities. 
 
 Our own posing of the question "what do we need?" comes from an acknowledgement of the hybrid and global future we see being shaped for the scholarly record: parts digital, parts analog. In this new mediatic environment we continue to protect, study and renew the analog, as we attempt to harness the new media in smart, ethical and sustainable ways. For several reasons, this implies learning how to produce, disseminate and preserve digital scholarship ourselves, *without the help we can't get*, even as we fight to build the infrastructures we need at the intersection of and beyond institutional libraries and schools. This means that our minimal computing does not stand in as a universal call, but rather as a space for new questions and practices, an injunction to constantly repeat the question, "what do we need?" 
 
