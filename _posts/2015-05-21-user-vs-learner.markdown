@@ -12,7 +12,7 @@ On a user interface, on the other hand, eliminating clutter (unnecessary buttons
 
 We prefer to (not) define minimal computing around the question "What do we need?" If we do so, our orientations vis-a-vis ease of use, ease of creation, increased access and reductions in computing—and by extension, electricity—become clearer. In this sense, we aim to understand ways of building what could be referred to as "[architectures of necessity](http://architectureofnecessity.com/)" as Ernesto Oroza would call them.
 
-Oroza tells us the story of a man who wanted a little bit more space. Here's his story:
+Oroza tells us [the story](http://architectureofnecessity.com/about/) of a man who wanted a little bit more space. Here's his story:
 
 >He lived with his mother in a space that was so small that it couldn’t legally be considered a house. He expanded into the hallway, built a kitchen and refurbished the bathroom. He changed the status of the property and acquired a title for it. He got his hands on a permit to build on the roof, as he thought about moving out on his own. In order to do this he had to build an exterior stairway. He set to work on the structure indoors and started the paperwork to divide the property. The appearance of an exterior stairway before the process of dividing the house was finished could be considered a violation, and he could be fined or even lose all property rights to the house he had built.
 >
