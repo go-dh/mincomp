@@ -45,9 +45,7 @@ Another consequence of reconnecting with our knowledge production is an increase
 A reason dear to us at GO::DH is access. If we believe that we should have a robust scholarly record available to scholars everywhere trough that global library we call the internet, we eventually must agree that the burden of cost should be lifted from the reader. No model we see, though, convinces us it can give vast-scale access to all networked scholars around the world other than the simplest model: producing our own scholarship ourselves. In the process of learning how to do so, we also learn how to leverage institutional and extra-institutional structures for preservation and discovery.
 
 
-Bibliography
+## Bibliography
 Kirschenbaum, Matthew. "[Materiality and Matter and Stuff: What Electronic Texts Are Made Of](http://www.electronicbookreview.com/thread/electropoetics/sited)." 
 
-Discarded text:
-We have this need for several reasons: our current analog publishing practices, contracted out as a series of services to an author, have led to a situation rife with abuses, exclusion and unnecessary expense. For those whose contributions to the scholarly record have only potential small readerships, for example, publication in existing venues becomes more difficult as the pressures of solvency and profit reorient scholarship indiscriminately to larger publics. Other evils of our current dispensation have been well documented, and we do not need to revisit them here [cite Eve, Fitzpatrick, et al]. Decoupling our dependence on existing publishing mechanisms may then help us to preserve scholarship that is understood and validated by peer communities.
 
