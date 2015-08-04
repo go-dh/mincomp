@@ -18,23 +18,23 @@ In the Lab we make much use of paper tape because it renders readily apparent th
 
 Let us compare how the ubiquitous "Hello, World!" program looks in C, Python, and BASIC. In C (depending on the installation), it might be:
 
-`#include <stdio.h>`
-`main()`
-`{`
-`printf("Hello, World!");` 
+	#include <stdio.h>
+	main()
+	{
+	printf("Hello, World!");
 
 
 If you already know quite a bit about computers, this makes perfect sense. Of course you need to include a least one standard library when your program is compiled. ("Compiled?", asks the student; "Yes, hold on, we will come to that later".) And of course there has to be a 'main' section to every program. And the curly and round braces? Well, you just need those, they are required by the rules. At this point, knowledgeable readers may be thinking "but the braces too can be explained quite logically". Indeed they can. But can they be explained in a way that makes sense to someone who is at the level of learning about the "Hello, World!" program? I have not found a way to do this.
 
 What about "Hello, World!" in Python (version 3, the latest)? This is much better:
 
-> `print("Hello, World!")`
+	print("Hello, World!")
 
 But we still have those braces. Why? (And, if you have been following the development of Python, how come we did not need them in Python version 2?) The answer is that in Python (version 3), `print` is not a statement--in common parlance, an imperative to 'do this'--but is instead a  function. Being a function, Python's `print` is an intellectual construct that takes an argument (the string "Hello, World!") as a specific instance of a generic object that it has been programmed to work upon in a certain way. This presents a significant pedagogical problem, since in order to explain how the simplest program ever devised works, we must (if we use Python) first explain the tricky concept of a programmable function.
 
 In BASIC, of course, our "Hello, World!" program is just:
 
-> <pre>10 PRINT "Hello, World!"</pre>
+	10 PRINT "Hello, World!"
 
 The only bit of computer code is a simple imperative ("do this!") and, as in English, the words that are the object of a verb about a piece of language are in quotation marks. If you already understand how to make sense of (to parse) this line from a fictional narrative work
 
