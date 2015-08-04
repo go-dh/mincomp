@@ -46,7 +46,7 @@ But what about that number "10"? Surely that is an unfortunate part of BASIC's u
 
 In fact, as the referents of jumps, numbers are at least as familiar to novices as alphabetic labels are. "Open your books at page 32 and begin reading", "Let us start again from the top of the second movement", "Act Three, Scene Two, everybody!". By contrast, there are few precedents by which a novice might understand that an alphabetic label can work as precisely as a numeric one. Indeed, the implied codes in the following printed page are entirely familiar to students:
 
-![A bit of Hamlet](/images/bit-of-Hamlet.png)
+![A bit of Hamlet]({{site.baseurl}}/images/bit-of-Hamlet.png)
 
 Every line of a play that is being studied seriously has a line number--although publishers usually print the number only for every 5th or 10th line--and it is part of a generalized numbering system incorporating the larger units of acts and scenes. Even quite weak students are comfortable with the requirement to direct their attention to line 350 and to reference a quotation of it using its wider context as "2.2.350". We are already not a million miles away from the use of dotted quads as Internet Protocol addresses.
 
