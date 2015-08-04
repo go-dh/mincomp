@@ -3,7 +3,7 @@ layout: post
 title:  "Old Machines Running Old Languages"
 date:   2015-08-03 04:00:00
 category: thoughts
-author: Gabriel Egan
+author: "Gabriel Egan"
 ---
 
 The Minimal Computing Lab at the Centre for Textual Studies (CTS) at De Montfort University (Leicester, England) was created to help students of arts and humanities subjects to understand how computers work, with a special focus on how they can store and process writing. Almost all young people quite literally use computers all day long, and yet almost all have virtually no idea how these machines work at the most fundamental level and would never consider programming one for themselves. To introduce students to how computers work and how to program them, modern computers--even stripped-down ones such as the Raspberry Pi--are much too complicated. Before one can use a Windows or Macintosh computer or a Pi to teach a modern, simplified programming language such as Scratch, one has to 'boot' the computer to load an operating system of bewildering complexity. If a student asks "What is happening now?" as the machine boots, we have to answer "It is complicated, so let us not discuss it now: wait until we get to the simple Scratch environment". This, I submit, is a highly unsatisfactory answer. We have to just pretend not to notice all the complexity that is needed as a prior step to reaching the simple programming environment, the simplicity of which is entirely false since it depends on an underlying complexity that it exists to conceal.
