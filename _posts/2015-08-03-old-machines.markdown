@@ -18,11 +18,11 @@ In the Lab we make much use of paper tape because it renders readily apparent th
 
 Let us compare how the ubiquitous "Hello, World!" program looks in C, Python, and BASIC. In C (depending on the installation), it might be:
 
-> `#include <stdio.h>
->  main()
->  {
->  printf("Hello, World!");  
->  }`
+`#include <stdio.h>
+main()
+{
+printf("Hello, World!");  
+`
 
 If you already know quite a bit about computers, this makes perfect sense. Of course you need to include a least one standard library when your program is compiled. ("Compiled?", asks the student; "Yes, hold on, we will come to that later".) And of course there has to be a 'main' section to every program. And the curly and round braces? Well, you just need those, they are required by the rules. At this point, knowledgeable readers may be thinking "but the braces too can be explained quite logically". Indeed they can. But can they be explained in a way that makes sense to someone who is at the level of learning about the "Hello, World!" program? I have not found a way to do this.
 
