@@ -4,8 +4,6 @@ title: People
 permalink: /people/
 ---
 
-[currently being built]
-
 **Jean Bauer** is the Associate Director of the Center for Digital Humanities at Princeton.  Through a combination of formal training and curiosity she is an early American historian, a database designer, dataviz enthusiast, and a photographer. Her dissertation “Republicans of Letters: The Early American Foreign Service as Information Network, 1775-1825” explores the research affordances of custom built digital platforms for the study of history, particularly [The Early American Foreign Service Database](www.eafsd.org) (code released as [ProjectQuincy](projectquincy.org)) which she built to conduct her analysis and maintains as an open access scholarly resource.  When not studying the relationship between power and information, Bauer seeks to share both through the big tent of Digital Humanities.
 
 **Alex Christie** is a doctoral candidate in English at the University of Victoria. He conducts research on 3D geospatial expression and scholarly communication for the Modernist Versions Project (MVP) and Implementing New Knowledge Environments (INKE) in the Electronic Textual Cultures Lab (ETCL). He is developing an open source toolkit for digital humanities pedagogy with grant funding from the Association for Computers and the Humanities (ACH); his dissertation traces experiments in procedural literary expression across modernist poems and manuscripts.
