@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Minimal Definitions" 
-date:   2016-06-23 17:00:00
+date:   2016-09-25 17:00:00
 category: thoughts
 author: Jentery Sayers 
 ---
