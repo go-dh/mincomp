@@ -10,7 +10,7 @@ I've been researching the various uses and implications of "minimal computing." 
 
 Minimal computing appears to prompt these fundamental questions about choice and necessity: "What do we need?" (see [Gil](http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)) "What don't we need?" "What do we want?" "What don't we want?"
 
-The brief definitions below point to some interesting overlaps and tensions between the multiple aims (stated or not) of minimal computing. For now, tho, I'm listing them here without synthesis, analysis, or any assumption that the list is complete. Soon, I'll add some questions that may emerge from each definition. Feedback is welcome in the meantime. Thank you! 
+The brief definitions/perspectives below point to some interesting overlaps and tensions between the multiple aims (stated or not) of minimal computing. For now, tho, I'm listing them here without synthesis, analysis, or any assumption that the list is complete. Soon, I'll add some questions that may emerge from each definition. Feedback is welcome in the meantime. Thank you! 
 
 ## Minimal Design
 
