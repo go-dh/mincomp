@@ -127,6 +127,7 @@ I did not account for all the minimals or their particulars here. The ones I did
 * Knight, Kim (2016), http://kimknight.com/.
 * LaPensée, Elizabeth (2016), http://www.elizabethlapensee.com/.
 * The Long Now Foundation (2016), http://longnow.org/about/. 
+* Manovich, Lev, *The Language of New Media*, MIT P. (2001). 
 * Marino, Mark (2016), http://markcmarino.com/wordpress/.
 * Marvin, Carolyn, *When Old Technologies Were New: Thinking about Electric Communication in the Late Nineteenth Century*, Oxford U. P. (1988).
 * Marx, Karl, "Notebook VII: The Chapter on Capital" (Fragment on the Machines), in *Grundrisse* (1857-58), https://www.marxists.org/archive/marx/works/1857/grundrisse/ch14.htm.
