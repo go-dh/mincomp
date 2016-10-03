@@ -80,6 +80,10 @@ Reduce the rigidity of form, composition, and use to increase the personalizatio
 
 Reduce reliance on the internet for communication, exchange, and participation to account for or privilege local conditions 
 
+## Minimal Connectivity 
+
+Reduce or eliminate the default assumption that internet access is evenly distributed in order to account for material and social conditions of communications and exchange 
+
 ## Minimal Surveillance 
 
 Reduce the use of sensors, computer vision, cookies, and other tracking mechanisms to increase privacy and security and to decrease harassment and hacks 
