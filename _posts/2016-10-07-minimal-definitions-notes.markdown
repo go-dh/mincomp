@@ -7,20 +7,17 @@ author: Joel Hughes
 ---
 
 The following is a loose set of notes and thoughts triggered by
-Jentery Sayers's piece of the same title, defining the concept of
-_Minimal Computing_ <sub>_[1](#ref1)_</sub>. This is far from
-empirical, I'm not an academic but I do find this discussion very
+Jentery Sayers's piece of the same title, defining the concepts of
+_Minimal Computing_ <sub>[_[1](#ref1)_]</sub>. This is far from
+scholarly, I'm not an academic but I do find this discussion very
 interesting.
 
 <sub>_Originally posted 2016-10-06: [rudenoise.uk](http://rudenoise.uk/md-mc-notes.html)_</sub>
 
-_Minimal Definitions_ is focussed around academic applications and
-Alex Gil's question <sub>[_[2](#ref2)_]</sub>:
-
 > What do we need? - _Alex Gil_
 
-My reflections come from a career spent building web-applications and
-writing software.
+My reflections are coloured by a career spent building software,
+predominantly for the web.
 
 > The emerging definitions of minimal computing and its frameworks
 > fascinate me, in part because they engage various histories of
@@ -35,10 +32,12 @@ should be reduced or the complexity of the control-system increased
 (hiding the complexity from the end user).
 
 In its technical implementation, Jekyll only moves the complexity
-around, the reduction in the system is negligible.
+around, the overall reduction in the system's complexity is
+negligible. Does the ability to modify the software affect its
+minimalism?
 
 Agree that reducing the design and UI functions is beneficial and in
-keeping with the principles of _minicomp_, so far.
+keeping with the principles of _Minimal Computing_, so far.
 
 The notion of a "minimal" system is very subjective. In most cases,
 assuming that the complexity is essential, what remains can be hidden
@@ -110,32 +109,21 @@ As a professional programmer, my requirements are minimal.
 I'm writing this on a machine from 2007 which is blazingly fast for
 most tasks.
 
-## Minimal Maintenance
-
-I think that the _Law of Requisite Variety_ can be applied here. My
-OpenBSD laptop upgrades are painless in comparison to the
-infrastructure I use professionally to manage servers in the cloud.
-Also upgrading my Macbook Pro is a far more unpredictable
-proposition due to the vast number of variables with that system.
-
-This is compounded by the rate of change but it does keep
-me in work.
-
 ## Minimal Barriers
 
-Simple isn't the same as easy. Computer processors are very "simple"
-but they are capable of doing simple things repetitiously and very
+Simple isn't the same as easy. Computer processors are very "simple",
+they are capable of doing simple things repetitiously and very
 quickly. For instance nearly all arithmetic in a processor can be
 performed just by adding. This is _simple_ but not _easy_.
 
-A problem I see in the project that I work on is the drive to make
+A problem I see in the projects that I work on is the drive to make
 the barriers low for the users. In so doing constraints are placed on
 functionality, there are fewer paths to follow so fewer mistakes can
 be made. The trade-off is made when the user wishes to perform a
 creative (rather than prescribed task) the system is inflexible.
 
-You can reduce system complexity to a degree, after which you
-can only move it around.
+You can reduce system complexity to a degree, after which
+it can only be reordered.
 
 ## Minimal Internet
 
