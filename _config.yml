@@ -1,29 +1,30 @@
 # Build settings
-markdown: kramdown
-permalink: pretty
+markdown:           kramdown
+permalink:          pretty
 
 
 # Dependencies
-markdown:         kramdown
-highlighter:         pygments
+markdown:           kramdown
+highlighter:        pygments
+gems:               [jekyll-paginate]
 
 # Permalinks
-permalink:        pretty
+permalink:          pretty
 
 # Setup
-title:            "Minimal Computing"
-tagline:          
-description:      "a working group of GO::DH"
-host:    127.0.0.1
-url: ""              
-baseurl: "/mincomp"
-email:
+title:              "Minimal Computing"
+tagline:
+description:        "a working group of GO::DH"
+host:               127.0.0.1
+url:                ""
+baseurl:            "/mincomp"
+email:              mincomp@lists.globaloutlookdh.org
 
 
-paginate:         5
-layout: blog-post
+paginate:           5
+layout:             blog-post
 
 # Custom vars
-version:          2.0.0
+version:            2.0.0
 
 
