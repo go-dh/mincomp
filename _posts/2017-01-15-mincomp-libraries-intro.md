@@ -3,7 +3,7 @@ layout: post
 title:  "Minimal Computing in Libraries: Introduction"
 date:   2017-01-15 05:00:00
 category: thoughts
-author: Stewart Warner
+author: Stewart Varner
 ---
 
 [The following paper was delivered at the DLF 2016 Forum in Milwaukee as the introduction to the "Minimal Computing in Libraries: Case Studies and the Case" panel]
