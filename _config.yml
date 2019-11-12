@@ -4,6 +4,7 @@ permalink:          pretty
 
 
 # Dependencies
+
 markdown:           kramdown
 highlighter:        pygments
 gems:               [jekyll-paginate]
